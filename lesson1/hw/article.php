@@ -15,6 +15,7 @@
 			<div><?=$post['content']?></div>
 			<hr>
 			<a href="delete.php?id=<?=$id?>">Remove</a>
+			<a href="edit.php?id=<?=$id?>">Edit</a>
 		</div>
 	<? else: ?>
 		<div class="e404">
