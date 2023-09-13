@@ -35,8 +35,8 @@ function editArticle(int $id, string $title, string $content): bool
         'content' => $content
     ];
 
-    saveArticles($articles);
-    return true;
+
+    return saveArticles($articles);
 }
 
 function removeArticle(int $id): bool
