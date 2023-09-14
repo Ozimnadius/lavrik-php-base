@@ -1,0 +1,9 @@
+{"dt":"20:28:14","ip":"::1","uri":"\/php1\/hw-2-done\/article.php?id=2","referer":"http:\/\/localhost\/php1\/hw-2-done\/index.php"}
+{"dt":"20:28:15","ip":"::1","uri":"\/php1\/hw-2-done\/delete.php?id=2","referer":"http:\/\/localhost\/php1\/hw-2-done\/article.php?id=2"}
+{"dt":"20:28:16","ip":"::1","uri":"\/php1\/hw-2-done\/index.php","referer":"http:\/\/localhost\/php1\/hw-2-done\/delete.php?id=2"}
+{"dt":"20:28:17","ip":"::1","uri":"\/php1\/hw-2-done\/add.php","referer":"http:\/\/localhost\/php1\/hw-2-done\/index.php"}
+{"dt":"20:28:18","ip":"::1","uri":"\/php1\/hw-2-done\/add.php","referer":"http:\/\/localhost\/php1\/hw-2-done\/add.php"}
+{"dt":"20:28:19","ip":"::1","uri":"\/php1\/hw-2-done\/index.php","referer":"http:\/\/localhost\/php1\/hw-2-done\/add.php"}
+{"dt":"20:28:20","ip":"::1","uri":"\/php1\/hw-2-done\/add.php","referer":"http:\/\/localhost\/php1\/hw-2-done\/index.php"}
+{"dt":"20:28:22","ip":"::1","uri":"\/php1\/hw-2-done\/add.php","referer":"http:\/\/localhost\/php1\/hw-2-done\/add.php"}
+{"dt":"20:28:22","ip":"::1","uri":"\/php1\/hw-2-done\/index.php","referer":"http:\/\/localhost\/php1\/hw-2-done\/add.php"}

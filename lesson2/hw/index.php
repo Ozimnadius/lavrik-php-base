@@ -5,7 +5,7 @@ declare(strict_types=1);
 include_once('model/articles.php');
 include_once('model/visit.php');
 
-addEntry();
+addVisitLog();
 $articles = getArticles();
 
 ?>

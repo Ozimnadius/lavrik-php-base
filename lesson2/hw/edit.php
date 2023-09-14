@@ -4,7 +4,7 @@ declare(strict_types=1);
 include_once('model/articles.php');
 include_once('model/visit.php');
 
-addEntry();
+addVisitLog();
 
 $articles = getArticles();
 $id = (int)($_GET['id'] ?? '');
@@ -47,7 +47,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <p><?=$err?></p>
             <button>Send</button>
         </form>
-
         <? if ($isEdited): ?>
             <h2>Article edited!</h2>
         <? endif; ?>
