@@ -7,7 +7,7 @@ function addVisitLog(): bool
     $dt = date("H:i:s");
     $ip = $_SERVER['REMOTE_ADDR'];
     $uri = $_SERVER["REQUEST_URI"];
-    $referer = $_SERVER['HTTP_REFERER'];
+    $referer = $_SERVER['HTTP_REFERER'] ?? '';
 
     $entry = "$dt;$ip;$uri;$referer\n";
 
